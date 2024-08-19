@@ -1,5 +1,5 @@
 /*
- Grouping by multiple fields.
+ Grouping by multiple fields to see more granular results.
  See the average sales per country and it's cities, only > $6 of average sales.
  */
 SELECT BillingCountry,

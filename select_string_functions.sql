@@ -1,5 +1,5 @@
 /*
- Example of simple select with pipe to concatenate fields into 1 column.
+ Example of simple select with pipe to concatenate fields into 1 column and other string functions.
  https://a-gentle-introduction-to-sql.readthedocs.io/en/latest/part2/string-functions.html
  */
 SELECT FirstName || ' ' || LastName AS "Customer",
